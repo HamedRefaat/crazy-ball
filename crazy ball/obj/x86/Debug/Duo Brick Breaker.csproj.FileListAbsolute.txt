@@ -1,0 +1,22 @@
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\bin\Debug\GameStages.txt
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\bin\Debug\pay_t_his.mp3
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\bin\Debug\Images\HomeSplash1.png
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\bin\Debug\Images\img2.jpg
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\bin\Debug\Images\img3.jpg
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\bin\Debug\Images\img1.jpg
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\bin\Debug\Images\icon.jpg
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\bin\Debug\DuoBrickBreaker.exe
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\bin\Debug\DuoBrickBreaker.pdb
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\Help.baml
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\MainWindow.baml
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\Pause.baml
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\Help.g.cs
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\MainWindow.g.cs
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\Pause.g.cs
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\App.g.cs
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\DuoBrickBreaker_MarkupCompile.cache
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\DuoBrickBreaker.g.resources
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\DuoBrickBreaker.Properties.Resources.resources
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\Duo Brick Breaker.csproj.GenerateResource.Cache
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\DuoBrickBreaker.exe
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\DuoBrickBreaker.pdb

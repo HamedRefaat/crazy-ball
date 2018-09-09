@@ -1,0 +1,46 @@
+D:\Hamed's\Faculty\my game\wpf games\crazy ball\crazy ball\crazy ball\bin\Debug\GameStages.txt
+D:\Hamed's\Faculty\my game\wpf games\crazy ball\crazy ball\crazy ball\bin\Debug\pay_t_his.mp3
+D:\Hamed's\Faculty\my game\wpf games\crazy ball\crazy ball\crazy ball\bin\Debug\Images\HomeSplash1.png
+D:\Hamed's\Faculty\my game\wpf games\crazy ball\crazy ball\crazy ball\bin\Debug\Images\img2.jpg
+D:\Hamed's\Faculty\my game\wpf games\crazy ball\crazy ball\crazy ball\bin\Debug\Images\img3.jpg
+D:\Hamed's\Faculty\my game\wpf games\crazy ball\crazy ball\crazy ball\bin\Debug\Images\img1.jpg
+D:\Hamed's\Faculty\my game\wpf games\crazy ball\crazy ball\crazy ball\bin\Debug\Images\icon.jpg
+D:\Hamed's\Faculty\my game\wpf games\crazy ball\crazy ball\crazy ball\bin\Debug\DuoBrickBreaker.exe
+D:\Hamed's\Faculty\my game\wpf games\crazy ball\crazy ball\crazy ball\bin\Debug\DuoBrickBreaker.pdb
+D:\Hamed's\Faculty\my game\wpf games\crazy ball\crazy ball\crazy ball\obj\x86\Debug\crazy ball.csprojResolveAssemblyReference.cache
+D:\Hamed's\Faculty\my game\wpf games\crazy ball\crazy ball\crazy ball\obj\x86\Debug\Help.baml
+D:\Hamed's\Faculty\my game\wpf games\crazy ball\crazy ball\crazy ball\obj\x86\Debug\MainWindow.baml
+D:\Hamed's\Faculty\my game\wpf games\crazy ball\crazy ball\crazy ball\obj\x86\Debug\Pause.baml
+D:\Hamed's\Faculty\my game\wpf games\crazy ball\crazy ball\crazy ball\obj\x86\Debug\Help.g.cs
+D:\Hamed's\Faculty\my game\wpf games\crazy ball\crazy ball\crazy ball\obj\x86\Debug\MainWindow.g.cs
+D:\Hamed's\Faculty\my game\wpf games\crazy ball\crazy ball\crazy ball\obj\x86\Debug\Pause.g.cs
+D:\Hamed's\Faculty\my game\wpf games\crazy ball\crazy ball\crazy ball\obj\x86\Debug\App.g.cs
+D:\Hamed's\Faculty\my game\wpf games\crazy ball\crazy ball\crazy ball\obj\x86\Debug\DuoBrickBreaker_MarkupCompile.cache
+D:\Hamed's\Faculty\my game\wpf games\crazy ball\crazy ball\crazy ball\obj\x86\Debug\DuoBrickBreaker.g.resources
+D:\Hamed's\Faculty\my game\wpf games\crazy ball\crazy ball\crazy ball\obj\x86\Debug\DuoBrickBreaker.Properties.Resources.resources
+D:\Hamed's\Faculty\my game\wpf games\crazy ball\crazy ball\crazy ball\obj\x86\Debug\crazy ball.csproj.GenerateResource.Cache
+D:\Hamed's\Faculty\my game\wpf games\crazy ball\crazy ball\crazy ball\obj\x86\Debug\DuoBrickBreaker.exe
+D:\Hamed's\Faculty\my game\wpf games\crazy ball\crazy ball\crazy ball\obj\x86\Debug\DuoBrickBreaker.pdb
+C:\Users\hamed\Desktop\crazy ball\crazy ball\obj\x86\Debug\DuoBrickBreaker.exe
+C:\Users\hamed\Desktop\crazy ball\crazy ball\obj\x86\Debug\DuoBrickBreaker.pdb
+C:\Users\hamed\Desktop\crazy ball\crazy ball\bin\Debug\GameStages.txt
+C:\Users\hamed\Desktop\crazy ball\crazy ball\bin\Debug\pay_t_his.mp3
+C:\Users\hamed\Desktop\crazy ball\crazy ball\bin\Debug\Images\HomeSplash1.png
+C:\Users\hamed\Desktop\crazy ball\crazy ball\bin\Debug\Images\img2.jpg
+C:\Users\hamed\Desktop\crazy ball\crazy ball\bin\Debug\Images\img3.jpg
+C:\Users\hamed\Desktop\crazy ball\crazy ball\bin\Debug\Images\img1.jpg
+C:\Users\hamed\Desktop\crazy ball\crazy ball\bin\Debug\Images\icon.jpg
+C:\Users\hamed\Desktop\crazy ball\crazy ball\bin\Debug\DuoBrickBreaker.exe
+C:\Users\hamed\Desktop\crazy ball\crazy ball\bin\Debug\DuoBrickBreaker.pdb
+C:\Users\hamed\Desktop\crazy ball\crazy ball\obj\x86\Debug\crazy ball.csprojResolveAssemblyReference.cache
+C:\Users\hamed\Desktop\crazy ball\crazy ball\obj\x86\Debug\Help.baml
+C:\Users\hamed\Desktop\crazy ball\crazy ball\obj\x86\Debug\MainWindow.baml
+C:\Users\hamed\Desktop\crazy ball\crazy ball\obj\x86\Debug\Pause.baml
+C:\Users\hamed\Desktop\crazy ball\crazy ball\obj\x86\Debug\Help.g.cs
+C:\Users\hamed\Desktop\crazy ball\crazy ball\obj\x86\Debug\MainWindow.g.cs
+C:\Users\hamed\Desktop\crazy ball\crazy ball\obj\x86\Debug\Pause.g.cs
+C:\Users\hamed\Desktop\crazy ball\crazy ball\obj\x86\Debug\App.g.cs
+C:\Users\hamed\Desktop\crazy ball\crazy ball\obj\x86\Debug\DuoBrickBreaker_MarkupCompile.cache
+C:\Users\hamed\Desktop\crazy ball\crazy ball\obj\x86\Debug\DuoBrickBreaker.g.resources
+C:\Users\hamed\Desktop\crazy ball\crazy ball\obj\x86\Debug\DuoBrickBreaker.Properties.Resources.resources
+C:\Users\hamed\Desktop\crazy ball\crazy ball\obj\x86\Debug\crazy ball.csproj.GenerateResource.Cache

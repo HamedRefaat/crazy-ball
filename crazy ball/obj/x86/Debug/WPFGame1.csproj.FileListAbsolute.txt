@@ -1,0 +1,81 @@
+D:\CodeProject\WPFGame1\WPFGame1\bin\Debug\WPFGame1.exe
+D:\CodeProject\WPFGame1\WPFGame1\bin\Debug\WPFGame1.pdb
+D:\CodeProject\WPFGame1\WPFGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CodeProject\WPFGame1\WPFGame1\obj\x86\Debug\MainWindow.baml
+D:\CodeProject\WPFGame1\WPFGame1\obj\x86\Debug\MainWindow.g.cs
+D:\CodeProject\WPFGame1\WPFGame1\obj\x86\Debug\App.g.cs
+D:\CodeProject\WPFGame1\WPFGame1\obj\x86\Debug\WPFGame1_MarkupCompile.cache
+D:\CodeProject\WPFGame1\WPFGame1\obj\x86\Debug\WPFGame1.g.resources
+D:\CodeProject\WPFGame1\WPFGame1\obj\x86\Debug\WPFGame1.Properties.Resources.resources
+D:\CodeProject\WPFGame1\WPFGame1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CodeProject\WPFGame1\WPFGame1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CodeProject\WPFGame1\WPFGame1\obj\x86\Debug\WPFGame1.exe
+D:\CodeProject\WPFGame1\WPFGame1\obj\x86\Debug\WPFGame1.pdb
+D:\CodeProject\WPFGame1\WPFGame1\bin\Debug\GameStages.txt
+D:\CodeProject\WPFGame1\WPFGame1\bin\Debug\pay_t_his.mp3
+D:\CodeProject\WPFGame1\WPFGame1\bin\Debug\brick.gif
+D:\CodeProject\WPFGame1\WPFGame1\bin\Debug\steel.gif
+D:\CodeProject\WPFGame1\WPFGame1\bin\Debug\hardbrick.gif
+C:\Projects\WPFGame1\WPFGame1\obj\x86\Debug\MainWindow.baml
+C:\Projects\WPFGame1\WPFGame1\obj\x86\Debug\MainWindow.g.cs
+C:\Projects\WPFGame1\WPFGame1\obj\x86\Debug\App.g.cs
+C:\Projects\WPFGame1\WPFGame1\obj\x86\Debug\WPFGame1_MarkupCompile.cache
+C:\Projects\WPFGame1\WPFGame1\obj\x86\Debug\WPFGame1.g.resources
+C:\Projects\WPFGame1\WPFGame1\obj\x86\Debug\WPFGame1.Properties.Resources.resources
+C:\Projects\WPFGame1\WPFGame1\obj\x86\Debug\WPFGame1.csproj.GenerateResource.Cache
+C:\Projects\WPFGame1\WPFGame1\bin\Debug\GameStages.txt
+C:\Projects\WPFGame1\WPFGame1\bin\Debug\pay_t_his.mp3
+C:\Projects\WPFGame1\WPFGame1\bin\Debug\WPFGame1.exe
+C:\Projects\WPFGame1\WPFGame1\bin\Debug\WPFGame1.pdb
+C:\Projects\WPFGame1\WPFGame1\obj\x86\Debug\WPFGame1.exe
+C:\Projects\WPFGame1\WPFGame1\obj\x86\Debug\WPFGame1.pdb
+C:\Projects\WPFGame1\WPFGame1\bin\Debug\img2.jpg
+C:\Projects\WPFGame1\WPFGame1\bin\Debug\img3.jpg
+C:\Projects\WPFGame1\WPFGame1\bin\Debug\img4.jpg
+C:\Projects\WPFGame1\WPFGame1\bin\Debug\img1.jpg
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\obj\x86\Debug\WPFGame1.exe
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\obj\x86\Debug\WPFGame1.pdb
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\obj\x86\Debug\MainWindow.baml
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\obj\x86\Debug\MainWindow.g.cs
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\obj\x86\Debug\App.g.cs
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\obj\x86\Debug\WPFGame1_MarkupCompile.cache
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\obj\x86\Debug\WPFGame1.g.resources
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\obj\x86\Debug\WPFGame1.Properties.Resources.resources
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\obj\x86\Debug\WPFGame1.csproj.GenerateResource.Cache
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\bin\Debug\GameStages.txt
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\bin\Debug\pay_t_his.mp3
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\bin\Debug\WPFGame1.exe
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\bin\Debug\WPFGame1.pdb
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\obj\x86\Debug\WPFGame1.csprojResolveAssemblyReference.cache
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\obj\x86\Debug\Pause.baml
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\obj\x86\Debug\Pause.g.cs
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\bin\Debug\Images\img2.jpg
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\bin\Debug\Images\img3.jpg
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\bin\Debug\Images\img4.jpg
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\bin\Debug\Images\img1.jpg
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\obj\x86\Debug\Help.baml
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\obj\x86\Debug\Help.g.cs
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\obj\x86\Debug\Window1.baml
+C:\Projects\Backup\WPFGame1 - before changing touch enable\WPFGame1\obj\x86\Debug\Window1.g.cs
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\WPFGame1.exe
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\WPFGame1.pdb
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\Help.baml
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\MainWindow.baml
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\Pause.baml
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\Help.g.cs
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\MainWindow.g.cs
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\Pause.g.cs
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\App.g.cs
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\WPFGame1_MarkupCompile.cache
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\WPFGame1.g.resources
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\WPFGame1.Properties.Resources.resources
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\obj\x86\Debug\WPFGame1.csproj.GenerateResource.Cache
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\bin\Debug\GameStages.txt
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\bin\Debug\pay_t_his.mp3
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\bin\Debug\Images\img2.jpg
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\bin\Debug\Images\img3.jpg
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\bin\Debug\Images\img1.jpg
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\bin\Debug\WPFGame1.exe
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\bin\Debug\WPFGame1.pdb
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\bin\Debug\Images\HomeSplash1.png
+C:\Projects\Backup\WPFGame1 - remove slider and add canvas to move brick\WPFGame1\bin\Debug\Images\icon.jpg
